@@ -1,0 +1,1 @@
+first run db.py and then type: streamlit run app.py
